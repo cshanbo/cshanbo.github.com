@@ -1,46 +1,52 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome to Shanbo's Website
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+This is Shanbo's Personal Webpage.
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+# ABOUT ME
 
-## Update Author Attributes
+I am now an `Assistant Researcher` of [Sogou](https://www.sogou.com), which is, the largest [Input MEthod, IME](https://en.wikipedia.org/wiki/Input_method), the 2nd largest Search Engine, and a leading Artifitial Intelligence company in China.
 
-In `_config.yml` remember to specify your own data:
+### Education
+
+I recieved my Bachelor's Degree of [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](http://www.nju.edu.cn/) in 2013.
+
+I recieved my Master's Degree of [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](http://http://www.nju.edu.cn/) in 2016. 
+
+I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) during 2013 ~ 2016. [Prof. Jiajun Chen](http://cs.nju.edu.cn/chenjiajun/) and Assistant Researcher, [Shujian Huang](http://cs.nju.edu.cn/c9/d2/c2641a51666/page.htm) are my supervisors.
+
+
+### Open-source Projects
+1. I'm one of the developers of [Nematus](https://github.com/rsennrich/nematus), an open-source Neural Machine Translation System based on [Theano](https://github.com/Theano/Theano).
+2. I'm one of the developers of [Platoon](https://github.com/mila-udem/platoon), an open-source `Multi-node, Multi-GPUs` mini framework for Theano.
+3. ...
+
+### Other Projects
+1. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/translation) of NLP group, Nanjing University.
+2. I'm the main developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/interactivetranslation) of NLP group, Nanjing University.
+3. I'm one of the developers of `word normalization` project, which is aimed at `normalizing` those `un-standard` word into `standard` expression.
+3. ...
+
+### Research Interests
+My research interests including:
+
+    - Natural Language Processing
+        - Neural Machine Translation
+        - Statistical Machine Translation
+        - Interactive Machine Translation
+        - Text Mining
+        - ...
     
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
+    - Deep Learning 
+        - Recurrent/ Recursive Neural Network
+        - Convolutional Neural Network
+        - Restricted Boltzmann Machine
+        - ...
 
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+### Publications
+[1] Cheng, Shanbo, et al. "PRIMT: A Pick-Revise Framework for Interactive Machine Translation." Proceedings of NAACL-HLT. 2016.
 
