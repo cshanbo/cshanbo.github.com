@@ -26,8 +26,8 @@ I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) Rese
 3. ...
 
 ### Other Projects
-1. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/translate) of NLP group, Nanjing University.
-2. I'm the main developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/interactivetranslation) of NLP group, Nanjing University.
+1. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/demo/translate) of NLP group, Nanjing University.
+2. I'm the main developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/demo/interactivetranslation) of NLP group, Nanjing University.
 3. I'm one of the developers of `word normalization` project, which aims at `normalizing` those `un-standard` words or phrases in a search query into `standard` expressions.
 3. ...
 
