@@ -9,13 +9,13 @@ This is Shanbo's Personal Webpage.
 
 # ABOUT ME
 
-I am now an `Assistant Researcher` of [Sogou](https://www.sogou.com), which is, the largest [Input MEthod, IME](https://en.wikipedia.org/wiki/Input_method), the 2nd largest Search Engine, and a leading Artifitial Intelligence company in China.
+I am now an `Assistant Researcher` of [Sogou](https://www.sogou.com), which is, the largest [Input Method Editor, IME](https://en.wikipedia.org/wiki/Input_method), the 2nd largest Search Engine, and a leading Artifitial Intelligence company in China.
 
 ### Education
 
 I recieved my Bachelor's Degree of [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](http://www.nju.edu.cn/) in 2013.
 
-I recieved my Master's Degree of [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](http://http://www.nju.edu.cn/) in 2016. 
+I recieved my Master's Degree of [Department of Computer Science and Technology](http://cs.nju.edu.cn/), [Nanjing University](http://http://www.nju.edu.cn/) in 2016. This is [my personal homepage](http://nlp.nju.edu.cn/chengsb) within the official website of NLP group, NJU.
 
 I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) Research Group during 2013 ~ 2016. [Prof. Jiajun Chen](http://cs.nju.edu.cn/chenjiajun/) and Assistant Researcher, [Shujian Huang](http://cs.nju.edu.cn/c9/d2/c2641a51666/page.htm) are my supervisors.
 

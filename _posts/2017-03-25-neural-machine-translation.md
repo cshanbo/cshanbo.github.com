@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Neural Machine Translation"
-description: ""
-category: 
-tags: []
+category : Machine Translation
+description: "My work for Neural Machine Translation"
+tags: [NMT]
 ---
 {% include JB/setup %}
 
