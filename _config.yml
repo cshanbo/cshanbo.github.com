@@ -7,6 +7,7 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
+theme: console-theme
 title : Shanbo's Blog
 tagline: Site Tagline
 author :
