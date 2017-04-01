@@ -15,16 +15,16 @@ See running examples in ./test/train/
 1. Introducing new interface, which uses `.platoonrc` to manage the training nodes, and GPU cards (see ./test/train/.platoonrc).
 2. Compatible with former `Single-node, multi-GPU` scenario.
 
-# `Single-node` scenario
+# Single-node scenario
 1. Set .platoonrc
 2. Running `train.sh`, which is compatible with former version. 
 3. Using `stop.sh` to kill jobs, for example, `./stop.sh single-exp/log/pids.txt`
 
-# `Multi-node` scenario
+# Multi-node scenario
 1. Set .platoonrc
 2. There is a little different in training script, which is:
     We *SHOULD NOT* set the `platoon-launcher` command in `train.sh` to background, which might cause mpi spawning error.
-    Instead, we can set `train.sh` to background by `sh train.sh &`
+    Instead, we can set `train.sh` to background with `screen`, like `screen sh train.sh &`
 3. Using `stop.sh` to kill jobs, for example, `./stop.sh multi-exp/log/pids.txt`
 
 # TODO
