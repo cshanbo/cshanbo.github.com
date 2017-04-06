@@ -2,7 +2,7 @@
 layout: post
 title: "mpirun notes"
 description: ""
-category: mpi
+category: MPI
 tags: []
 ---
 {% include JB/setup %}
