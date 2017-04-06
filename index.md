@@ -50,3 +50,4 @@ My research interests including:
 ### Publications
 [1] Cheng, Shanbo, et al. "PRIMT: A Pick-Revise Framework for Interactive Machine Translation." Proceedings of NAACL-HLT. 2016.
 
+[2] 程善伯. 短语翻译系统中的交互翻译研究. MS thesis. 南京大学, 2016.
