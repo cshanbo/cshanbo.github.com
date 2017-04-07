@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This is Shanbo's Personal Webpage.
+This is Shanbo's Personal Webpage. See [more](http://nlp.nju.edu.cn/chengsb)
 
 # ABOUT ME
 
