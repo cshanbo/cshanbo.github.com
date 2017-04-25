@@ -26,6 +26,7 @@ I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) Rese
 3. ...
 
 ### Other Projects
+1. I'm now doing my work on [CWMT 2017](http://nlp.nju.edu.cn/cwmt2017/evaluation.html), The 13th China Workshop on Machine Translation.
 1. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/demo/translate) of NLP group, Nanjing University.
 2. I'm the main developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/demo/interactivetranslation) of NLP group, Nanjing University.
 3. I'm one of the developers of `word normalization` project, which aims at `normalizing` those `un-standard` words or phrases in a search query into `standard` expressions.
@@ -48,6 +49,5 @@ My research interests including:
         - ...
 
 ### Publications
-[1] Cheng, Shanbo, et al. "PRIMT: A Pick-Revise Framework for Interactive Machine Translation." Proceedings of NAACL-HLT. 2016.
-
-[2] 程善伯. 短语翻译系统中的交互翻译研究. MS thesis. 南京大学, 2016.
+1. Cheng, Shanbo, et al. "PRIMT: A Pick-Revise Framework for Interactive Machine Translation." Proceedings of NAACL-HLT. 2016.
+2. 程善伯. 短语翻译系统中的交互翻译研究. MS thesis. 南京大学, 2016.
