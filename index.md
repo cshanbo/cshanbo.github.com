@@ -26,7 +26,7 @@ I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) Rese
 3. ...
 
 ### Other Projects
-1. I'm now doing my work on [CWMT 2017](http://nlp.nju.edu.cn/cwmt2017/evaluation.html), The 13th China Workshop on Machine Translation.
+1. I'm now doing my work on [CWMT 2017](http://nlp.nju.edu.cn/cwmt2017/evaluation.html), The 13th China Workshop on Machine Translation, and [WMT 2017](http://www.statmt.org/wmt17/translation-task.html), EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17).
 1. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/demo/translate) of NLP group, Nanjing University.
 2. I'm the main developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/demo/interactivetranslation) of NLP group, Nanjing University.
 3. I'm one of the developers of `word normalization` project, which aims at `normalizing` those `un-standard` words or phrases in a search query into `standard` expressions.
