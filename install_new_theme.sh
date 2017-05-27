@@ -15,6 +15,4 @@ rm -rf theme-cloned
 
 original=`grep "theme:" backup/_config.yml`
 
-cat ./backup/_config.yml | sed -e "s/${original}/theme: $2/g" > _config.yml.new
-mv _config.yml _config.yml.backup
-mv _config.yml.new _config.yml
+cat ./backup/_config.yml | sed -e "s/${original}/theme: $2/g" > _config.yml
