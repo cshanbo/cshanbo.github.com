@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-This is Shanbo's Personal Webpage. See [more](http://nlp.nju.edu.cn/chengsb). [![Github](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/cshanbo)
+This is Shanbo's Personal Webpage. See [more](http://nlp.nju.edu.cn/chengsb). [Github](https://github.com/cshanbo)
 
 # ABOUT ME
 
