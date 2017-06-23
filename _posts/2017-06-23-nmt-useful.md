@@ -12,7 +12,7 @@ tags: []
 
 #### NMT Basics
 1. [Attention](https://arxiv.org/abs/1409.0473)
-2. [Effective approaches]*(https://arxiv.org/abs/1508.04025)*
+2. [Effective approaches](https://arxiv.org/abs/1508.04025)
 
 #### NMT Model
 1. [Subword NMT](https://arxiv.org/abs/1508.07909)
