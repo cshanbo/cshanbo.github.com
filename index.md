@@ -9,7 +9,9 @@ This is Shanbo's Personal Webpage. See [more](http://nlp.nju.edu.cn/chengsb). [G
 
 # ABOUT ME
 
-I am now an `Assistant Researcher` of [Sogou](https://www.sogou.com), which is, the largest [Input Method Editor, IME](https://en.wikipedia.org/wiki/Input_method), the 2nd largest Search Engine, and a leading Artifitial Intelligence company in China.
+I am now a `Senior Algorithm Engineer` of MIT (Machine Intelligent Technology), DAMO (Academy for Discovery, Adventure, Momentum, and Outlook), [Alibaba](https://www.alibabagroup.com/cn/global/home).
+
+I was an `Assistant Researcher` of [Sogou](https://www.sogou.com), which is, the largest [Input Method Editor, IME](https://en.wikipedia.org/wiki/Input_method), the 2nd largest Search Engine, and a leading Artifitial Intelligence company in China.
 
 ### Education
 
