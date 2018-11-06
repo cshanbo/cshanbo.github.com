@@ -25,15 +25,16 @@ I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) Rese
 ### Open-source Projects
 1. I'm one of the developers of [Nematus](https://github.com/rsennrich/nematus), an open-source Neural Machine Translation System based on [Theano](https://github.com/Theano/Theano).
 2. I'm one of the developers of [Platoon](https://github.com/mila-udem/platoon), an open-source `Multi-node, Multi-GPU` mini framework for Theano.
-3. ...
+3. I'm one of the developers of [Tensor2tensor](https://github.com/tensorflow/tensor2tensor), state-of-the-art library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 
 ### Other Projects
-1. I'm now doing my work on [CWMT 2017](http://nlp.nju.edu.cn/cwmt2017/evaluation.html), The 13th China Workshop on Machine Translation, and [WMT 2017](http://www.statmt.org/wmt17/translation-task.html), EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17).
+1. I did my work on [WMT 2018](http://www.statmt.org/wmt18/translation-task.html), EMNLP 2018 THIRD CONFERENCE ON MACHINE TRANSLATION (WMT18).
+2. I did my work on [CWMT 2017](http://nlp.nju.edu.cn/cwmt2017/evaluation.html), The 13th China Workshop on Machine Translation, and [WMT 2017](http://www.statmt.org/wmt17/translation-task.html), EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17).
     - NEWS!!! We ranked 1st in the Chinese to English news translation task in [WMT 2017](http://matrix.statmt.org/?mode=best) (SogouKnowing).
-1. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/demo/translate) of NLP group, Nanjing University.
-2. I'm the main developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/demo/interactivetranslation) of NLP group, Nanjing University.
-3. I'm one of the developers of `word normalization` project, which aims at `normalizing` those `un-standard` words or phrases in a search query into `standard` expressions.
-3. ...
+3. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/demo/translate) of NLP group, Nanjing University.
+4. I'm the major developer of [Interactive Machine Translation](http://nlp.nju.edu.cn/demo/interactivetranslation) of NLP group, Nanjing University.
+5. I'm one of the developers of `word normalization` project, which aims at `normalizing` those `un-standard` words or phrases in a search query into `standard` expressions.
+6. ...
 
 ### Research Interests
 My research interests including:
@@ -51,6 +52,11 @@ My research interests including:
         - Restricted Boltzmann Machine
         - ...
 
-### Publications
-1. Cheng, Shanbo, et al. "PRIMT: A Pick-Revise Framework for Interactive Machine Translation." Proceedings of NAACL-HLT. 2016.
-2. 程善伯. 短语翻译系统中的交互翻译研究. MS thesis. 南京大学, 2016.
+### Publications [Sorted by year]
+1. Wang Y, Cheng S, Jiang L, et al. Sogou neural machine translation systems for wmt17[C]//Proceedings of the Second Conference on Machine Translation. 2017: 410-415.
+2. Tang X, Cheng S, Do L, et al. Improving Multilingual Semantic Textual Similarity with Shared Sentence Encoder for Low-resource Languages[J]. arXiv preprint arXiv:1810.08740, 2018.
+3. Deng Y, Cheng S, Lu J, et al. Alibaba's Neural Machine Translation Systems for WMT18[C]//Proceedings of the Third Conference on Machine Translation: Shared Task Papers. 2018: 368-376.
+4. Cheng S, Huang S, Chen H, et al. PRIMT: a pick-revise framework for interactive machine translation[C]//Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016: 1240-1249.
+
+### Misc
+[Me](https://scholar.google.com/citations?user=CYUBKN0AAAAJ&hl=zh-CN) on Google Scholar.
