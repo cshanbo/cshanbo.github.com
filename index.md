@@ -54,11 +54,12 @@ My research interests including:
         - ...
 
 ### Publications [Sorted by year]
-1. Wang Y, Cheng S, Jiang L, et al. Sogou neural machine translation systems for wmt17[C]//Proceedings of the Second Conference on Machine Translation. 2017: 410-415.
+1. Weng R, Yu H, Huang S, Cheng S, et al. Acquiring Knowledge from Pre-trained Model to Neural Machine Translation[J]. arXiv preprint arXiv:1912.01774, 2019.
 2. Tang X, Cheng S, Do L, et al. Improving Multilingual Semantic Textual Similarity with Shared Sentence Encoder for Low-resource Languages[J]. arXiv preprint arXiv:1810.08740, 2018.
 3. Deng Y, Cheng S, Lu J, et al. Alibaba's Neural Machine Translation Systems for WMT18[C]//Proceedings of the Third Conference on Machine Translation: Shared Task Papers. 2018: 368-376.
-4. Cheng S, Huang S, Chen H, et al. PRIMT: a pick-revise framework for interactive machine translation[C]//Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016: 1240-1249.
-5. Weng R, Yu H, Huang S, Cheng S, et al. Acquiring Knowledge from Pre-trained Model to Neural Machine Translation[J]. arXiv preprint arXiv:1912.01774, 2019.
+4. Wang Y, Cheng S, Jiang L, et al. Sogou neural machine translation systems for wmt17[C]//Proceedings of the Second Conference on Machine Translation. 2017: 410-415.
+5. Cheng S, Huang S, Chen H, et al. PRIMT: a pick-revise framework for interactive machine translation[C]//Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016: 1240-1249.
 
 ### Misc
 [Me](https://scholar.google.com/citations?user=CYUBKN0AAAAJ&hl=zh-CN) on Google Scholar.
+[Me](https://www.semanticscholar.org/author/Shanbo-Cheng/3456696) on Semantic Scholar.
