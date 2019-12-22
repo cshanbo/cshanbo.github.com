@@ -23,12 +23,13 @@ I was a member of [Natural Language Processing, NLP](http://nlp.nju.edu.cn) Rese
 
 
 ### Open-source Projects
-1. I'm one of the developers of [Nematus](https://github.com/rsennrich/nematus), an open-source Neural Machine Translation System based on [Theano](https://github.com/Theano/Theano).
-2. I'm one of the developers of [Platoon](https://github.com/mila-udem/platoon), an open-source `Multi-node, Multi-GPU` mini framework for Theano.
-3. I'm one of the developers of [Tensor2tensor](https://github.com/tensorflow/tensor2tensor), state-of-the-art library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+1. I'm one of the developers of [Tensor2tensor](https://github.com/tensorflow/tensor2tensor), state-of-the-art library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+2. I'm one of the developers of [Nematus](https://github.com/rsennrich/nematus), an open-source Neural Machine Translation System based on [Theano](https://github.com/Theano/Theano).
+3. I'm one of the developers of [Platoon](https://github.com/mila-udem/platoon), an open-source `Multi-node, Multi-GPU` mini framework for Theano.
 
 ### Other Projects
 1. I did my work on [WMT 2018](http://www.statmt.org/wmt18/translation-task.html), EMNLP 2018 THIRD CONFERENCE ON MACHINE TRANSLATION (WMT18).
+    - NEWS!!! We ranked 1st in the En->Zh, E<->Ru, En<->Tr news translation task in [WMT 2018](http://matrix.statmt.org/?mode=best) (Alibaba).
 2. I did my work on [CWMT 2017](http://nlp.nju.edu.cn/cwmt2017/evaluation.html), The 13th China Workshop on Machine Translation, and [WMT 2017](http://www.statmt.org/wmt17/translation-task.html), EMNLP 2017 SECOND CONFERENCE ON MACHINE TRANSLATION (WMT17).
     - NEWS!!! We ranked 1st in the Chinese to English news translation task in [WMT 2017](http://matrix.statmt.org/?mode=best) (SogouKnowing).
 3. I'm one of the developers of [Statistical Machine Translation](http://nlp.nju.edu.cn/demo/translate) of NLP group, Nanjing University.
@@ -57,6 +58,7 @@ My research interests including:
 2. Tang X, Cheng S, Do L, et al. Improving Multilingual Semantic Textual Similarity with Shared Sentence Encoder for Low-resource Languages[J]. arXiv preprint arXiv:1810.08740, 2018.
 3. Deng Y, Cheng S, Lu J, et al. Alibaba's Neural Machine Translation Systems for WMT18[C]//Proceedings of the Third Conference on Machine Translation: Shared Task Papers. 2018: 368-376.
 4. Cheng S, Huang S, Chen H, et al. PRIMT: a pick-revise framework for interactive machine translation[C]//Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. 2016: 1240-1249.
+5. Weng R, Yu H, Huang S, Cheng S, et al. Acquiring Knowledge from Pre-trained Model to Neural Machine Translation[J]. arXiv preprint arXiv:1912.01774, 2019.
 
 ### Misc
 [Me](https://scholar.google.com/citations?user=CYUBKN0AAAAJ&hl=zh-CN) on Google Scholar.
